@@ -1,4 +1,4 @@
-![logo](https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/Black%20Minimalist%20Elegant%20Personal%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/Black%20Professional%20Motivational%20Quote%20LinkedIn%20Banner.png)
 # 👋 Hi, I’m Yusuf!
   👨‍💻 I’m Machine Learning Engineer<br> 👨🏻‍🎓 Studied Computer Science<br> 🤖 I’m currently working on Machine Learning Engineer<br>  </> I’m currently learning Machine Learning Engineer & AI
 
