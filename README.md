@@ -5,18 +5,21 @@
 
 I'm a passionate Machine Learning Engineer with a solid foundation in Computer Science. Currently working on building and deploying advanced AI systems. I’m always exploring new technologies and expanding my skillset in Machine Learning, AI, and Machine Learning.
 
-## <h3>🏆 Most Used Languages</h3>
+## <h3>🌱 Talking about personal stuffs</h3>
 
 - 🖥️ **Currently working** on Machine Learning Engineering.
 - 🎓 **Studied** Computer Science.
 - 📈 **Focused on** AI, Deep Learning, and Neural Networks.
 - 📖 **Learning** and improving my expertise in Machine Learning and AI every day.
+- 📫 **How to reach me** **yusuf.abdrrhman@gmail.com**
 
 
 ## <h3>💬 Socials</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yusuf abdurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf abdurrahman" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/yusuf-abdurrahman-623b66353/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf abdurrahman" height="30" width="40" />
+</a>
+
 
 
 
