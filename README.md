@@ -1,3 +1,4 @@
+![logo](https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/goku-gif-19.gif)
 # 👋 Hi, I’m Yusuf!
   👨‍💻 I’m Machine Learning Engineer<br> 👨🏻‍🎓 Studied Computer Science<br> 🤖 I’m currently working on Machine Learning Engineer<br>  </> I’m currently learning Machine Learning Engineer & AI
 
