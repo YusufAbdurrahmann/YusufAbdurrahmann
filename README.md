@@ -9,7 +9,7 @@ I'm a passionate Machine Learning Engineer with a solid foundation in Computer S
 
 - 🖥️ **Currently working** on Machine Learning Engineering.
 - 🎓 **Studied** Computer Science.
-- 📈 **Focused on** AI, Deep Learning, and Neural Networks.
+- 📈 **Focused on** AI, Machine Learning, and Deep Learning.
 - 📖 **Learning** and improving my expertise in Machine Learning and AI every day.
 - 📫 **How to reach me** **yusuf.abdrrhman@gmail.com**
 
