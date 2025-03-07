@@ -5,7 +5,7 @@
 
 I'm a passionate Machine Learning Engineer with a solid foundation in Computer Science. Currently working on building and deploying advanced AI systems. I’m always exploring new technologies and expanding my skillset in Machine Learning, AI, and Machine Learning.
 
-## <h3>🌱 Talking about personal stuffs</h3>
+## <h3>🧑‍💼 Talking about personal stuffs</h3>
 
 - 🖥️ **Currently working** on Machine Learning Engineering.
 - 🎓 **Studied** Computer Science.
