@@ -16,7 +16,7 @@ I'm a passionate Machine Learning Engineer with a solid foundation in Computer S
 
 ## <h3>💬 Socials</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yusuf-abdurrahman-623b66353/" target="blank">
+<a href="https://www.linkedin.com/in/yusuf-abdurrahman-0656b4355/ target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf abdurrahman" height="30" width="40" />
 </a>
 
