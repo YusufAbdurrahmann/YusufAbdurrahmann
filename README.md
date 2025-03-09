@@ -3,7 +3,7 @@
 
 ### <h3>👨‍💻 Machine Learning Engineer | 🤖 Passionate about AI | 📚 Always Learning </h3>
 
-I'm a passionate Machine Learning Engineer with a solid foundation in Computer Science. Currently working on building and deploying advanced AI systems. I’m always exploring new technologies and expanding my skillset in Machine Learning, AI, and Machine Learning.
+I'm a passionate Machine Learning Engineer with a solid foundation in Computer Science. Currently working on building and deploying advanced AI systems. I’m always exploring new technologies and expanding my skillset in Machine Learning, and AI
 
 ## <h3>🧑‍💼 Talking about personal stuffs</h3>
 
