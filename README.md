@@ -1,4 +1,4 @@
-![logo](https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/Salinan%20dari%20Salinan%20dari%20Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/Black%20Professional%20Motivational%20Quote%20LinkedIn%20Banner.png)
 # 👋 Hi, I’m Yusuf!
 
 ### <h3>👨‍💻 Machine Learning Engineer | 🤖 Passionate about AI | 📚 Always Learning </h3>
