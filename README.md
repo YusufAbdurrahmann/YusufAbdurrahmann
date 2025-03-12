@@ -1,4 +1,4 @@
-![logo](https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/Black%20Professional%20Motivational%20Quote%20LinkedIn%20Banner.png)
+![logo](https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/1.png)
 # 👋 Hi, I’m Yusuf!
 
 ### <h3>👨‍💻 Machine Learning Engineer | 🤖 Passionate about AI | 📚 Always Learning </h3>
