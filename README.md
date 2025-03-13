@@ -1,9 +1,8 @@
 ![logo](https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner_20250310_184348_0000.png)
 # 👋 Hi, I’m Yusuf!
 
-### <h3>👨‍💻 Machine Learning Engineer | 🤖 Passionate about AI | 📚 Always Learning </h3>
-
-I'm a passionate Machine Learning Engineer with a solid foundation in Computer Science. Currently working on building and deploying AI systems. I’m always exploring new technologies and expanding my skillset in Machine Learning, and AI.
+👨‍💻 Machine Learning Engineer | 🤖 Passionate about AI | 📚 Always Learning
+<table> <tr> <td> <p align="left"> I'm a passionate Machine Learning Engineer with a solid foundation in Computer Science. Currently working on building and deploying AI systems. I’m always exploring new technologies and expanding my skill set in Machine Learning and AI. </p> <ul> <li>🚀 Expertise in Deep Learning, Computer Vision, and NLP.</li> <li>🛠 Experienced in developing and deploying scalable AI models.</li> <li>📊 Strong analytical skills with a focus on data-driven solutions.</li> <li>📖 Lifelong learner, always exploring cutting-edge AI research.</li> </ul> </td> <td> <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="400px" alt="Machine Learning Engineer"> </td> </tr> </table>
 
 ## <h3>🧑‍💼 Talking about personal stuffs</h3>
 
