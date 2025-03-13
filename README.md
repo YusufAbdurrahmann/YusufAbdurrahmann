@@ -1,8 +1,8 @@
 ![logo](https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner_20250310_184348_0000.png)
 # 👋 Hi, I’m Yusuf!
 
-👨‍💻 Machine Learning Engineer | 🤖 Passionate about AI | 📚 Always Learning
-<table> <tr> <td> <p align="left"> I'm a passionate Machine Learning Engineer with a solid foundation in Computer Science. Currently working on building and deploying AI systems. I’m always exploring new technologies and expanding my skill set in Machine Learning and AI. </p> <ul> <li>🚀 Expertise in Deep Learning, Computer Vision, and NLP.</li> <li>🛠 Experienced in developing and deploying scalable AI models.</li> <li>📊 Strong analytical skills with a focus on data-driven solutions.</li> <li>📖 Lifelong learner, always exploring cutting-edge AI research.</li> </ul> </td> <td> <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="400px" alt="Machine Learning Engineer"> </td> </tr> </table>
+
+<table> <tr> <td><p>👨‍💻 Machine Learning Engineer | 🤖 Passionate about AI | 📚 Always Learning</p> <p align="left"> I'm a passionate Machine Learning Engineer with a solid foundation in Computer Science. Currently working on building and deploying AI systems. I’m always exploring new technologies and expanding my skill set in Machine Learning and AI. </p> <ul> <li>📊 Strong analytical skills.</li> <li>🚀 Expertise in Machine Learning.</li> <li>📖 Lifelong learner, always exploring cutting-edge AI research.</li> <li>🛠 Experienced in developing and deploying scalable AI models.</li> </ul> </td> <td> <img src="https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/Man1.png" width="290px" alt="Machine Learning Engineer"> </td> </tr> </table>
 
 ## <h3>🧑‍💼 Talking about personal stuffs</h3>
 
@@ -18,9 +18,6 @@
 <a href="https://www.linkedin.com/in/yusuf-abdurrahman-0656b4355/ target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf abdurrahman" height="30" width="40" />
 </a>
-
-
-
 
 # <h3>💻 Tech Stack</h3>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
