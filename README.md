@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Yusuf!
 
 
-<table> <tr> <td><p>👨‍💻 Machine Learning Engineer | 🤖 Passionate about AI | 📚 Always Learning</p> <p align="left"> I'm a passionate Machine Learning Engineer with a solid foundation in Computer Science. Currently working on building and deploying AI systems. I’m always exploring new technologies and expanding my skill set in Machine Learning and AI. </p> <ul> <li>📊 Strong analytical skills.</li> <li>🚀 Expertise in Machine Learning.</li> <li>📖 Lifelong learner, always exploring cutting-edge AI research.</li> <li>🛠 Experienced in developing and deploying scalable AI models.</li> </ul> </td> <td> <img src="https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/Man1.png" width="290px" alt="Machine Learning Engineer"> </td> </tr> </table>
+<table> <tr> <td><p>👨‍💻 Machine Learning Engineer | 🧠 Passionate about AI | 📚 Always Learning</p> <p align="left"> I'm a passionate Machine Learning Engineer with a solid foundation in Computer Science. Currently working on building and deploying AI systems. I’m always exploring new technologies and expanding my skill set in Machine Learning and AI. </p> <ul> <li>📊 Strong analytical skills.</li> <li>🚀 Expertise in Machine Learning.</li> <li>📖 Lifelong learner, always exploring cutting-edge AI research.</li> <li>🛠 Experienced in developing and deploying scalable AI models.</li> </ul> </td> <td> <img src="https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/Man1.png" width="290px" alt="Machine Learning Engineer"> </td> </tr> </table>
 
 ## <h3>🧑‍💼 Talking about personal stuffs</h3>
 
