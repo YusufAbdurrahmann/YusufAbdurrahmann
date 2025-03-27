@@ -4,11 +4,11 @@
 
 <table><tr> <td>
 <h3>👨‍💻 Talking about personal stuffs</h3>
-<p align="left"> I'm a passionate Machine Learning Engineer with a solid foundation in Computer Science. Currently working on building and deploying AI systems. I’m always exploring new technologies and expanding my skill set in Machine Learning and AI. </p>
+<p align="left"> I'm a passionate Machine Learning Engineer with a solid foundation in Computer Science. Currently working on building and deploying AI systems. I’m always exploring new technologies and expanding my skill set in Machine Learning and AI.</p>
 
 - 🖥️ **Currently working** on Machine Learning Engineering.
 - 🎓 **Studied** Computer Science.
-- 📈 **Focused on** AI, Machine Learning, and Deep Learning.
+- 📈 **Focused on** Machine Learning and AI.
 - 📖 **Learning** and improving my expertise in Machine Learning and AI every day.
 - 📫 **How to reach me** **yusuf.abdrrhman@gmail.com**
 </td> <td>
