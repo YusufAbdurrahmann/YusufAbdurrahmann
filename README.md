@@ -1,4 +1,4 @@
-![logo](https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/Salinan%20dari%20Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(6).png)
+![logo](https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/Navy%20And%20White%20Geometric%20Technology%20LinkedIn%20Banner.png)
 # 👋 Hi, I’m Yusuf!
 
 
