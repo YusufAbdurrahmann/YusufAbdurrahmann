@@ -11,9 +11,9 @@
 - 📈 **Focused on** Machine Learning and AI.
 - 📖 **Learning** and improving my expertise in Machine Learning and AI every day.
 - 📫 **How to reach me** **yusuf.abdrrhman@gmail.com**
-</td> <td>
-<img src="https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/Man1.png" width="300px" alt="Machine Learning Engineer">
-</td> </tr> 
+</td>
+<!-- <img src="https://github.com/YusufAbdurrahmann/YusufAbdurrahmann/blob/main/Man1.png" width="300px" alt="Machine Learning Engineer"> -->
+<!-- </td> </tr>  -->
 </table>
 
 ## <h3>💬 Socials</h3>
